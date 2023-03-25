@@ -1,0 +1,24 @@
+  თუ ახალი Repositorie-ს შექმნის დროს Github-ის კოდმა არ იმუშავა, საჭიროა:
+
+   git status  (ენთერი)
+
+   git add .   (ენთერი)
+
+   git commit -m "init"  (ენთერი)
+
+   git push -u origin main    (ენთერი)
+
+
+
+
+
+
+
+
+
+
+   Github-ზე ცვლილებების დასამატებლად საჭიროა:
+
+  git add .                                      (ენთერი)
+  git commit -m "ვლილების სახელი ნებისმიერი რამ"       (ენთერი)
+  git push                                        (ენთერი)  
